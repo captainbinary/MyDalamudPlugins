@@ -1,19 +1,19 @@
 [
     {
-        "Author": "attick, daemitus, alymphocyte, grammernatzi",
-        "Name": "XIV Combo Expandedest",
+        "Author": "attick, daemitus, alymphocyte, kam",
+        "Name": "XIV Combo Kamified",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "InternalName": "XIVComboExpandedest",
+        "InternalName": "XIVComboKamified",
         "AssemblyVersion": "1.0.9.8",
-        "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
+        "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1622017376"
+        "LastUpdated": "1623764730"
     }
 ]
