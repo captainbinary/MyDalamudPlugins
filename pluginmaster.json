@@ -4,7 +4,7 @@
         "Name": "XIV Combo Kamified",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboKamified",
-        "AssemblyVersion": "1.0.9.14",
+        "AssemblyVersion": "1.0.9.15",
         "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
