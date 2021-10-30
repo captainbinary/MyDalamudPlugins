@@ -4,7 +4,7 @@
         "Name": "XIV Combo Kamified API4",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\nUpdated for API4",
         "InternalName": "XIVComboKamifiedTest",
-        "AssemblyVersion": "1.2.7",
+        "AssemblyVersion": "1.2.8",
         "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamifiedTest",
 	"IconUrl": "https://github.com/captainbinary/XIVComboPluginKamifiedTest/blob/master/res/icon.png",
         "ApplicableVersion": "any",
