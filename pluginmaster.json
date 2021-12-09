@@ -20,22 +20,5 @@
         "DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamifiedTest/latest.zip",
         "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamifiedTest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamifiedTest/latest.zip"
-    },
-    {
-        "Author": "attick, daemitus, alymphocyte, kam",
-        "Name": "XIV Combo Kamified",
-        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "InternalName": "XIVComboKamified",
-        "AssemblyVersion": "1.1.2.16",
-        "RepoUrl": "https://github.com/captainbinary/XIVComboPluginKamified",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1623764730"
     }
 ]
