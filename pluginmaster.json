@@ -12,11 +12,11 @@
         "LoadPriority": 0,
 	"IconUrl": "https://raw.githubusercontent.com/captainbinary/XIVComboPluginKamified/master/res/icon.png",
 	"ImageUrls": [],
-	"DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboPluginKamified/latest.zip",
+	"DownloadLinkInstall": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboPluginKamified/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboPluginKamified/latest.zip",
+        "DownloadLinkTesting": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/captainbinary/MyDalamudPlugins/raw/master/plugins/XIVComboKamified/latest.zip",
 	"DownloadCount": 0,
         "LastUpdated": "1639062456"
     }
